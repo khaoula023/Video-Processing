@@ -5,8 +5,8 @@ In this project, we explore the capabilities of Python for advanced video proces
 ## Key Features:
 ###  Frame Extraction: 
 Extract individual frames from video files for detailed analysis and processing.
-### Object Detection:
-Implement object detection algorithms to identify and track objects within video frames.
+### video annotation:
+This involves adding metadata to video content, such as labels, tags, comments, or markers, to provide additional information
 ### Video Compression:
 Utilize video compression techniques to reduce file size while maintaining quality.
 ### Face Recognition: 
