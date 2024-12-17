@@ -6,7 +6,8 @@ In this project, we explore the capabilities of Python for advanced video proces
 ###  Frame Extraction: 
 Extract individual frames from video files for detailed analysis and processing.
 ### video annotation:
-This involves adding metadata to video content, such as labels, tags, comments, or markers, to provide additional information
+This involves adding metadata to video content, such as labels, tags, comments, or markers, to provide additional information. 
+[Data link](https://www.kaggle.com/code/robikscube/working-with-video-in-python-youtube-tutorial/notebook) 
 ### Video Compression:
 Utilize video compression techniques to reduce file size while maintaining quality.
 ### Face Recognition: 
