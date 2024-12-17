@@ -9,3 +9,9 @@ Extract individual frames from video files for detailed analysis and processing.
 Implement object detection algorithms to identify and track objects within video frames.
 ### Video Compression:
 Utilize video compression techniques to reduce file size while maintaining quality.
+### Face Recognition: 
+Integrated face recognition technology to identify and track faces in video streams
+### Tools and Libraries Used:
+#### OpenCV
+#### ffmpeg
+#### mediapipe
